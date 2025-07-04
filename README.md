@@ -29,9 +29,9 @@
 <p align="center">
 <a href="https://github.com/beibing173"><img src="https://img.shields.io/badge/GitHub-beibing173-blue?logo=github" /></a>
 <a href="[[https://space.bilibili.com/1808002444](https://space.bilibili.com/3493140797327848)](https://space.bilibili.com/3493140797327848)"><img src="https://img.shields.io/badge/哔哩哔哩-捡数码垃圾的小张-pink?logo=bilibili" /></a>
-<a href="https://www.youtube.com/@Ctrl__Flow"><img src="https://img.shields.io/badge/YouTube-Ctrl__Flow-red?logo=youtube" /></a>
+<a href="https://www.youtube.com/@爱捡数码垃圾的小张"><img src="https://img.shields.io/badge/YouTube-爱捡数码垃圾的小张-red?logo=youtube" /></a>
 <img src="https://img.shields.io/badge/QQ-3628385871-green?logo=qq" /></a>
-<a href="https://t.me/TG_GXYgu"><img src="https://img.shields.io/badge/Telegram-beibing173-orange?logo=Telegram" /></a>
+<a href="https://t.me/beibing173"><img src="https://img.shields.io/badge/Telegram-beibing173-orange?logo=Telegram" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=beibing173&abbreviated=true&color=yellow" />
 </p>
