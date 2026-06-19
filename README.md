@@ -1,5 +1,4 @@
 
-```
 # 🚀 我是 Beibing173
 
 [![GitHub followers](https://img.shields.io/github/followers/beibing173?label=关注&style=social)](https://github.com/beibing173)
@@ -68,12 +67,11 @@
 
 ### 📊 本周写码时间
 
-```text
 PHP          ██████████░░  40%
 Python       ████████░░░░  30%
 HTML/CSS     ██████░░░░░░  20%
 Docker       ██░░░░░░░░░░  10%
-```
+
 
 ---
 
