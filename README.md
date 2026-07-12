@@ -77,11 +77,9 @@ Docker       ██░░░░░░░░░░  10%
 
 ### 🎯 近期目标
 
-- [x] 搭建个人博客 zzrbk.xyz
-- [x] 加入 SZY Innovation Studio 担任 CTO
-- [ ] 把 MC 服务器面板开源
+- [x] 修复个人博客 zzrbk.xyz
 - [ ] 学 Vue / React
-- [ ] 博客月活突破 1000
+- [x] 博客月活突破 1000
 - [ ] GitHub 粉丝突破 10 个
 
 ---
