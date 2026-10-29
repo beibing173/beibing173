@@ -81,6 +81,7 @@
 - [ ] 学 Vue / React
 - [x] 博客月活突破 1000
 - [ ] GitHub 粉丝突破 10 个
+- [ ] GitHub Stars突破 100 个
 
 ---
 
